@@ -1,0 +1,1 @@
+docker build -f ".\SakuraJounin\Dockerfile" -t sakura-jounin .
